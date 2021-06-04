@@ -1,0 +1,24 @@
+.container-data{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 100%;
+    /* border: 1px solid black; */
+
+}
+
+.container-data h2{
+    color: #4682B4 ;
+    font-weight: bold;
+}
+
+.container-data .cont-data{
+    display: flex;
+    flex-direction: row;
+}
+
+.text{
+    margin: 10px 5px;
+}
